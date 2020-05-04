@@ -1,6 +1,5 @@
-beautifulsoup4
-dnspython>=1.15.0,<2.0.0
-cryptography
+dnspython>=1.16.0,<2.0.0
+cryptography>=2.9.2
 future
 requests[security]
-six
+certbot-dns-hetzner
